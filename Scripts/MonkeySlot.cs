@@ -20,6 +20,6 @@ public class MonkeySlot : MonoBehaviour
 
         //Debug.Log("tu as cliquer sur " + monkeyData.MonkeyName);
         
-        monkeyActionsSystem.AddMonkey(monkeyData);
+        monkeyActionsSystem.ChooseMonkey(monkeyData);
     }
 }
