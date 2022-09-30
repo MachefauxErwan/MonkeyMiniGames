@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MonkeyName: BlueMonkey
   visualIcone: {fileID: 21300000, guid: 92effc78f453b7747921a2bd4214ea05, type: 3}
-  prefabUIVisuel3D: {fileID: 8529342571189092480, guid: a39d51b4977cecc45848d0ebb32c5f4c, type: 3}
+  panelMonkey: {fileID: 21300000, guid: 16c2364b54465bd4bb88448df40f4539, type: 3}
   prefab3D: {fileID: 3088657800121449653, guid: 1754eb5bd04f07045a2bbf7bbeecb6f9, type: 3}

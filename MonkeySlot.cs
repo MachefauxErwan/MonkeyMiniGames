@@ -8,10 +8,10 @@ public class MonkeySlot : MonoBehaviour
     public Image visualIcone;
   
     [SerializeField]
-    private MonkeyActionsSystem monkeyActionsSystem;
+    private PlayerSelectionBox playerSelectionBox;
     private void Awake()
     {
-        monkeyActionsSystem = GameObject.Find("GameManager").GetComponent<MonkeyActionsSystem>();
+        playerSelectionBox = GameObject.Find("GameManager").GetComponent<PlayerSelectionBox>();
     }
 
 
@@ -19,7 +19,7 @@ public class MonkeySlot : MonoBehaviour
     {
 
         //Debug.Log("tu as cliquer sur " + monkeyData.MonkeyName);
-        
-        monkeyActionsSystem.ChooseMonkey(monkeyData);
+
+        playerSelectionBox.ChooseMonkey(monkeyData);
     }
 }

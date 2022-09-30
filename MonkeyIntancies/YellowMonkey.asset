@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MonkeyName: YellowMonkey
   visualIcone: {fileID: 21300000, guid: d073c7da0bf171e48aedea23fee8f831, type: 3}
-  prefabVisuel3D: {fileID: 2142136041371505521, guid: d22b7ba5aca95c048b0b3771348dc8c5, type: 3}
+  panelMonkey: {fileID: 21300000, guid: 339416ebf69790e4487d64e5072b2de4, type: 3}
+  prefab3D: {fileID: 5988728374420691984, guid: a52c9a739fcec8540b519d8933bd4d03, type: 3}

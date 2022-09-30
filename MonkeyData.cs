@@ -7,6 +7,6 @@ public class MonkeyData : ScriptableObject
 {
         public string MonkeyName;
         public Sprite visualIcone;
-        public GameObject prefabUIVisuel3D; 
+        public Sprite panelMonkey;
         public GameObject prefab3D;
 }
