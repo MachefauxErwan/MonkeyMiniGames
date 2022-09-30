@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caf723e388170640bfd92ea55805afc, type: 3}
+  m_Name: GreenMonkey
+  m_EditorClassIdentifier: 
+  MonkeyName: GreenMonkey
+  visualIcone: {fileID: 21300000, guid: 54f1668f43e11b640b29257e6730625f, type: 3}
+  prefabUIVisuel3D: {fileID: 835652810024681757, guid: 8145b72d35365a843809d25ba9de7b84, type: 3}
+  prefab3D: {fileID: 0}
